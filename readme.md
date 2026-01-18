@@ -1,0 +1,1 @@
+# Image captioning model using CNN and LSTM, with a Blue4 score of 0.6+ and Blue1 score of 0.19+, trained on Flickr8k dataset
